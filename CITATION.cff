@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research, please cite the technical note below."
+title: "Bar Time Is Not Information Time: A Causality Contract for Quantitative Trading Pipelines"
+type: report
+authors:
+  - family-names: Wong
+    given-names: Edmen
+doi: 10.5281/zenodo.21965788
+version: "1.0"
+date-released: 2026-08-16
+publisher: "AQP TECH ENTERPRISE"
+repository-code: "https://github.com/AlphaQuantPro/research"
+url: "https://alphaquantpro.com/research/bar-time-is-not-information-time"
+keywords:
+  - quantitative finance
+  - algorithmic trading
+  - look-ahead bias
+  - backtesting
+  - financial machine learning
+  - walk-forward validation

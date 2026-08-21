@@ -1,0 +1,13 @@
+fixture,status,mutation,trials,violations,violation_rate,median_max_deviation,mean_max_deviation,min_max_deviation,max_max_deviation
+C1 trailing rolling mean,causal,future Gaussian X0,600,0,0.0,0.0,0.0,0.0,0.0
+C2 expanding normalization,causal,future Gaussian X0,600,0,0.0,0.0,0.0,0.0,0.0
+C3 fold-local feature selection,causal,future-only predictive X5,600,0,0.0,0.0,0.0,0.0,0.0
+C4 maturity-aware training,causal,future Gaussian returns,600,0,0.0,0.0,0.0,0.0,0.0
+C5 availability-aware completed bar,causal,future Gaussian raw events,600,0,0.0,0.0,0.0,0.0,0.0
+C6 next-open execution,causal,random unavailable close mutation,600,0,0.0,0.0,0.0,0.0,0.0
+L1 centered rolling mean,leaky,future Gaussian X0,600,600,1.0,1.1965461181269181,1.3211632817623504,0.33273317415239945,4.523786461563849
+L2 full-sample normalization,leaky,future Gaussian X0,600,600,1.0,2.644340787605362,2.669934743530378,2.0675087968546233,3.832152268276844
+L3 global feature selection,leaky,future-only predictive X5,600,600,1.0,5.959005386566742,6.040462954751342,4.79536251617759,8.9426313023147
+L4 row-index-only label eligibility,leaky,future Gaussian returns,600,600,1.0,0.5551258772862245,0.6874482495377853,0.04273648321468859,3.0357366796340677
+L5 open-stamped completed bar,leaky,future Gaussian raw events,600,600,1.0,1.8960408406661857,2.1602529241346144,0.0022497579683263824,7.726089146199662
+L6 same-open retro-execution,leaky,random unavailable close mutation,600,286,0.4766666666666667,0.0,0.9533333333333334,0.0,2.0

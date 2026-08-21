@@ -15,6 +15,8 @@ The program focuses on quantitative research methodology, information-time causa
 - Status: **Public preprint; not peer reviewed**
 - Version: **0.2**
 - Published: **22 August 2026**
+- DOI: **10.5281/zenodo.22049285**
+- Archive: https://doi.org/10.5281/zenodo.22049285
 - Canonical page: https://alphaquantpro.com/research/adversarial-information-time-testing
 - Reproducibility: `papers/adversarial-information-time-testing/`
 
@@ -61,6 +63,7 @@ A passing mutation suite is not treated as proof that every leakage path is abse
 
 - Research hub: https://alphaquantpro.com/research
 - Alpha Quant Pro: https://alphaquantpro.com
+- Research Paper 01 DOI: https://doi.org/10.5281/zenodo.22049285
 - Technical Note 01 DOI: https://doi.org/10.5281/zenodo.21965788
 
 © 2026 Edmen Wong / AQP TECH ENTERPRISE. Research documentation is released under CC BY 4.0 unless otherwise stated.

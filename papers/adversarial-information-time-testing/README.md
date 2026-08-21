@@ -8,6 +8,8 @@ Research Paper 01 · Public Preprint · Version 0.2 · 22 August 2026
 
 Canonical page: https://alphaquantpro.com/research/adversarial-information-time-testing
 
+DOI: https://doi.org/10.5281/zenodo.22049285
+
 This repository directory contains the reference benchmark and publication artifacts for the paper. The paper extends the information-time contract introduced in Technical Note 01 and focuses on mutation-based falsification, paired causal/leaky fixtures, benchmark evidence, and mutation adequacy.
 
 ## Main result

@@ -21,5 +21,8 @@
     "property-based testing",
     "backtesting",
     "reproducibility"
-  ]
+  ],
+  "doi": "10.5281/zenodo.22049285",
+  "concept_doi": "10.5281/zenodo.22049284",
+  "zenodo_url": "https://zenodo.org/records/22049285"
 }

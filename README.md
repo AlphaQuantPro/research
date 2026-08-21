@@ -1,8 +1,26 @@
-# Alpha Quant Pro Research
+# Alpha Tick Lab Research
 
-Public technical notes and supporting research materials from **Alpha Quant Pro** and **Alpha Tick Lab**, published by **AQP TECH ENTERPRISE**.
+Public research papers, technical notes, and reproducibility artifacts from **Alpha Tick Lab / Alpha Quant Pro**, published by **AQP TECH ENTERPRISE**.
 
-This repository focuses on quantitative research methodology, backtest causality, financial machine learning, walk-forward validation, execution realism, and reproducible research-to-runtime workflows.
+The program focuses on quantitative research methodology, information-time causality, temporal leakage, financial machine learning, walk-forward validation, execution realism, and reproducible research-to-runtime workflows.
+
+## Research Paper 01
+
+### Adversarial Information-Time Testing for Financial Machine-Learning Pipelines
+
+**A Mutation-Based Benchmark for Temporal Leakage Detection**
+
+- Author: **Edmen Wong**
+- Affiliation: **AQP TECH ENTERPRISE / Alpha Tick Lab Research**
+- Status: **Public preprint; not peer reviewed**
+- Version: **0.2**
+- Published: **22 August 2026**
+- Canonical page: https://alphaquantpro.com/research/adversarial-information-time-testing
+- Reproducibility: `papers/adversarial-information-time-testing/`
+
+The paper formalizes authorization-preserving mutations and artifact-level temporal invariance tests across feature engineering, preprocessing, selection, label maturity, completed-bar availability, and execution authority.
+
+Controlled benchmark result: 0/3,600 violations in causal controls; 3,000/3,000 detections across five targeted leakage classes; and an execution experiment showing that random mutation detects only 286/600 planted faults while a targeted adversary detects 600/600.
 
 ## Technical Note 01
 
@@ -11,36 +29,38 @@ This repository focuses on quantitative research methodology, backtest causality
 **A Causality Contract for Quantitative Trading Pipelines**
 
 - Author: **Edmen Wong**
-- Affiliation: **AQP TECH ENTERPRISE**
-- Research platform: **Alpha Tick Lab**
 - Version: **1.0**
 - Published: **16 August 2026**
 - DOI: **10.5281/zenodo.21965788**
-- Canonical research page: https://alphaquantpro.com/research/bar-time-is-not-information-time
-- Zenodo record: https://doi.org/10.5281/zenodo.21965788
+- Canonical page: https://alphaquantpro.com/research/bar-time-is-not-information-time
+- Archive: https://doi.org/10.5281/zenodo.21965788
 
-The note examines a less obvious class of look-ahead bias: a completed market bar can leak future information even when feature code never explicitly accesses a future row.
+The note introduces an explicit information-time contract separating storage timestamps from information availability, label maturity, fold-local research state, and executable signal timing.
 
-## Core causality contract
+## Research progression
 
 ```text
-bar_open_time < bar_close_time <= available_at
-feature_time = available_at
-label_end_time > feature_time
-training label_end_time < validation_start
-execution_time > signal_time
+Technical Note 01
+  information-time contract
+        ↓
+Research Paper 01
+  formal mutation relations
+  + paired fault-injection benchmark
+  + reproducibility artifacts
 ```
 
-The associated validation methodology uses adversarial future-data mutation to test whether earlier features or train-owned selection evidence change when only later information is modified.
+This progression is intentional: the research paper extends and tests the prior engineering contract rather than re-publishing it under a new title.
 
-## Scope
+## Evidence boundary
 
-These materials describe research methodology and engineering evidence. They are **not** investment advice, peer-reviewed performance claims, or guarantees of live trading profitability.
+These materials describe research methodology and controlled engineering evidence. They are not investment advice, peer-reviewed performance claims, or guarantees of live trading profitability.
+
+A passing mutation suite is not treated as proof that every leakage path is absent. Point-in-time source data, statistical validation, realistic cost and execution modeling, and independent replication remain separate requirements.
 
 ## Links
 
 - Research hub: https://alphaquantpro.com/research
 - Alpha Quant Pro: https://alphaquantpro.com
-- DOI archive: https://doi.org/10.5281/zenodo.21965788
+- Technical Note 01 DOI: https://doi.org/10.5281/zenodo.21965788
 
 © 2026 Edmen Wong / AQP TECH ENTERPRISE. Research documentation is released under CC BY 4.0 unless otherwise stated.

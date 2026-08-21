@@ -1,20 +1,20 @@
 cff-version: 1.2.0
-message: "If you use or discuss this research, please cite the technical note below."
-title: "Bar Time Is Not Information Time: A Causality Contract for Quantitative Trading Pipelines"
+message: "If you use or discuss the AITT benchmark, please cite Research Paper 01 below."
+title: "Adversarial Information-Time Testing for Financial Machine-Learning Pipelines: A Mutation-Based Benchmark for Temporal Leakage Detection"
 type: report
 authors:
   - family-names: Wong
     given-names: Edmen
-doi: 10.5281/zenodo.21965788
-version: "1.0"
-date-released: 2026-08-16
-publisher: "AQP TECH ENTERPRISE"
+version: "0.2"
+date-released: 2026-08-22
+publisher: "AQP TECH ENTERPRISE / Alpha Tick Lab Research"
 repository-code: "https://github.com/AlphaQuantPro/research"
-url: "https://alphaquantpro.com/research/bar-time-is-not-information-time"
+url: "https://alphaquantpro.com/research/adversarial-information-time-testing"
 keywords:
   - quantitative finance
-  - algorithmic trading
-  - look-ahead bias
-  - backtesting
   - financial machine learning
-  - walk-forward validation
+  - look-ahead bias
+  - temporal leakage
+  - metamorphic testing
+  - backtesting
+  - reproducibility

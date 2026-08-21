@@ -1,0 +1,25 @@
+{
+  "title": "Adversarial Information-Time Testing for Financial Machine-Learning Pipelines: A Mutation-Based Benchmark for Temporal Leakage Detection",
+  "author": "Edmen Wong",
+  "affiliation": "AQP TECH ENTERPRISE / Alpha Tick Lab Research",
+  "product": "Alpha Quant Pro",
+  "type": "Research Paper / Public Preprint",
+  "number": "01",
+  "version": "0.2",
+  "date_published": "2026-08-22",
+  "peer_reviewed": false,
+  "canonical_url": "https://alphaquantpro.com/research/adversarial-information-time-testing",
+  "code_url": "https://github.com/AlphaQuantPro/research/tree/main/papers/adversarial-information-time-testing",
+  "prior_work": "https://alphaquantpro.com/research/bar-time-is-not-information-time",
+  "keywords": [
+    "quantitative finance",
+    "financial machine learning",
+    "look-ahead bias",
+    "temporal leakage",
+    "information time",
+    "metamorphic testing",
+    "property-based testing",
+    "backtesting",
+    "reproducibility"
+  ]
+}

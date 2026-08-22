@@ -13,10 +13,11 @@ The program focuses on quantitative research methodology, information-time causa
 - Author: **Edmen Wong**
 - Affiliation: **Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE**
 - Status: **Public preprint; not peer reviewed**
-- Version: **0.2**
+- Version: **0.3**
 - Published: **22 August 2026**
-- DOI: **10.5281/zenodo.22049285**
-- Archive: https://doi.org/10.5281/zenodo.22049285
+- Latest version DOI: **10.5281/zenodo.22052205**
+- Concept DOI: **10.5281/zenodo.22049284**
+- Archive: https://doi.org/10.5281/zenodo.22052205
 - Canonical page: https://alphaquantpro.com/research/adversarial-information-time-testing
 - Reproducibility: `papers/adversarial-information-time-testing/`
 
@@ -31,11 +32,13 @@ Controlled benchmark result: 0/3,600 violations in causal controls; 3,000/3,000 
 **A Causality Contract for Quantitative Trading Pipelines**
 
 - Author: **Edmen Wong**
-- Version: **1.0**
-- Published: **16 August 2026**
-- DOI: **10.5281/zenodo.21965788**
+- Version: **1.1**
+- Latest revision: **22 August 2026**
+- First published: **16 August 2026**
+- Latest version DOI: **10.5281/zenodo.22052190**
+- Concept DOI: **10.5281/zenodo.21965787**
 - Canonical page: https://alphaquantpro.com/research/bar-time-is-not-information-time
-- Archive: https://doi.org/10.5281/zenodo.21965788
+- Archive: https://doi.org/10.5281/zenodo.22052190
 
 The note introduces an explicit information-time contract separating storage timestamps from information availability, label maturity, fold-local research state, and executable signal timing.
 
@@ -63,7 +66,7 @@ A passing mutation suite is not treated as proof that every leakage path is abse
 
 - Research hub: https://alphaquantpro.com/research
 - Alpha Quant Pro: https://alphaquantpro.com
-- Research Paper 01 DOI: https://doi.org/10.5281/zenodo.22049285
-- Technical Note 01 DOI: https://doi.org/10.5281/zenodo.21965788
+- Research Paper 01 DOI: https://doi.org/10.5281/zenodo.22052205
+- Technical Note 01 DOI: https://doi.org/10.5281/zenodo.22052190
 
 © 2026 Edmen Wong / AQP TECH ENTERPRISE. Research documentation is released under CC BY 4.0 unless otherwise stated.

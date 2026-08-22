@@ -1,11 +1,11 @@
 {
   "title": "Adversarial Information-Time Testing for Financial Machine-Learning Pipelines: A Mutation-Based Benchmark for Temporal Leakage Detection",
   "author": "Edmen Wong",
-  "affiliation": "AQP TECH ENTERPRISE / Alpha Quant Pro Lab Research",
+  "affiliation": "Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE",
   "product": "Alpha Quant Pro",
   "type": "Research Paper / Public Preprint",
   "number": "01",
-  "version": "0.2",
+  "version": "0.3",
   "date_published": "2026-08-22",
   "peer_reviewed": false,
   "canonical_url": "https://alphaquantpro.com/research/adversarial-information-time-testing",
@@ -22,7 +22,8 @@
     "backtesting",
     "reproducibility"
   ],
-  "doi": "10.5281/zenodo.22049285",
+  "doi": "10.5281/zenodo.22052205",
   "concept_doi": "10.5281/zenodo.22049284",
-  "zenodo_url": "https://zenodo.org/records/22049285"
+  "zenodo_url": "https://zenodo.org/records/22052205",
+  "revision_note": "Branding-only revision to Alpha Quant Pro Lab naming; research content and benchmark results unchanged from v0.2."
 }

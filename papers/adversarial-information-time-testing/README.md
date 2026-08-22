@@ -2,13 +2,15 @@
 
 **A Mutation-Based Benchmark for Temporal Leakage Detection**
 
-Edmen Wong · Alpha Quant Pro Lab Research / AQP TECH ENTERPRISE
+Edmen Wong · Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE
 
-Research Paper 01 · Public Preprint · Version 0.2 · 22 August 2026
+Research Paper 01 · Public Preprint · Version 0.3 · 22 August 2026
 
 Canonical page: https://alphaquantpro.com/research/adversarial-information-time-testing
 
-DOI: https://doi.org/10.5281/zenodo.22049285
+Latest version DOI: https://doi.org/10.5281/zenodo.22052205
+
+Concept DOI: https://doi.org/10.5281/zenodo.22049284
 
 This repository directory contains the reference benchmark and publication artifacts for the paper. The paper extends the information-time contract introduced in Technical Note 01 and focuses on mutation-based falsification, paired causal/leaky fixtures, benchmark evidence, and mutation adequacy.
 
@@ -42,7 +44,8 @@ Reference environment:
 
 - `aitt_benchmark.py` - synthetic generator, paired fixtures, mutation operators, and reporting.
 - `results/reference-summary.csv` - reference summary used by the public preprint.
-- `paper-v0.2.pdf` - public manuscript.
+- `paper-v0.3.pdf` - latest branding-only revision.
+- `paper-v0.2.pdf` - previous public version retained for version history.
 - `citation.bib` - BibTeX citation metadata.
 
 ## Evidence boundary
@@ -52,3 +55,7 @@ This is a controlled fault-injection benchmark. It does not estimate the prevale
 ## Verification note
 
 The publication reference run was generated with Python 3.13.5. Before this public release, the same benchmark was rerun on Windows with Python 3.11.15 using the pinned package versions above. The reported fixture counts, violation rates, and median maximum deviations reproduced exactly, including the 286/600 random execution result and 600/600 targeted execution result.
+
+## Revision note
+
+Version 0.3 is a branding-only revision to Alpha Quant Pro Lab naming. Research content, benchmark design, results, and conclusions are unchanged from version 0.2.

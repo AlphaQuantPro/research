@@ -2,12 +2,14 @@
 
 ## A Causality Contract for Quantitative Trading Pipelines
 
-**Edmen Wong** · AQP TECH ENTERPRISE · Alpha Quant Pro / Alpha Quant Pro Lab Research
+**Edmen Wong** · Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE
 
 - Technical Note 01
-- Version 1.0
-- Published 16 August 2026
-- DOI: https://doi.org/10.5281/zenodo.21965788
+- Version 1.1
+- Latest revision 22 August 2026
+- First published 16 August 2026
+- Latest version DOI: https://doi.org/10.5281/zenodo.22052190
+- Concept DOI: https://doi.org/10.5281/zenodo.21965787
 - Canonical page: https://alphaquantpro.com/research/bar-time-is-not-information-time
 
 ## Thesis
@@ -23,4 +25,8 @@ A quantitative backtest can leak future information without explicitly reading a
 - strictly-later signal execution
 - adversarial future-mutation regression tests
 
-The PDF in this directory is the DOI-bearing archival version published on Zenodo.
+The latest DOI-bearing archival PDF is `bar-time-is-not-information-time-v1.1-doi.pdf`. The v1.0 PDF is retained for version history.
+
+## Revision note
+
+Version 1.1 is a branding-only revision to Alpha Quant Pro Lab naming. Research methodology, causal contract, conclusions, and evidence boundaries are unchanged from version 1.0.

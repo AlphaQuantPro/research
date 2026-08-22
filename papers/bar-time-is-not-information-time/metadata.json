@@ -1,15 +1,15 @@
 {
   "title": "Bar Time Is Not Information Time: A Causality Contract for Quantitative Trading Pipelines",
   "author": "Edmen Wong",
-  "affiliation": "AQP TECH ENTERPRISE",
+  "affiliation": "Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE",
   "research_platform": "Alpha Quant Pro Lab",
   "product": "Alpha Quant Pro",
   "type": "Technical Note",
   "number": "01",
-  "version": "1.0",
-  "date_published": "2026-08-16",
-  "doi": "10.5281/zenodo.21965788",
-  "doi_url": "https://doi.org/10.5281/zenodo.21965788",
+  "version": "1.1",
+  "date_published": "2026-08-22",
+  "doi": "10.5281/zenodo.22052190",
+  "doi_url": "https://doi.org/10.5281/zenodo.22052190",
   "canonical_url": "https://alphaquantpro.com/research/bar-time-is-not-information-time",
   "keywords": [
     "quantitative finance",
@@ -19,5 +19,9 @@
     "financial machine learning",
     "walk-forward validation",
     "information availability time"
-  ]
+  ],
+  "original_date_published": "2026-08-16",
+  "concept_doi": "10.5281/zenodo.21965787",
+  "zenodo_url": "https://zenodo.org/records/22052190",
+  "revision_note": "Branding-only revision to Alpha Quant Pro Lab naming; research methodology and conclusions unchanged from v1.0."
 }

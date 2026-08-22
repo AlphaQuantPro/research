@@ -2,7 +2,7 @@
 
 ## A Causality Contract for Quantitative Trading Pipelines
 
-**Edmen Wong** · AQP TECH ENTERPRISE · Alpha Quant Pro / Alpha Tick Lab Research
+**Edmen Wong** · AQP TECH ENTERPRISE · Alpha Quant Pro / Alpha Quant Pro Lab Research
 
 - Technical Note 01
 - Version 1.0

@@ -2,7 +2,7 @@
 
 **A Mutation-Based Benchmark for Temporal Leakage Detection**
 
-Edmen Wong · Alpha Tick Lab Research / AQP TECH ENTERPRISE
+Edmen Wong · Alpha Quant Pro Lab Research / AQP TECH ENTERPRISE
 
 Research Paper 01 · Public Preprint · Version 0.2 · 22 August 2026
 

@@ -1,6 +1,6 @@
-# Alpha Tick Lab Research
+# Alpha Quant Pro Lab Research
 
-Public research papers, technical notes, and reproducibility artifacts from **Alpha Tick Lab / Alpha Quant Pro**, published by **AQP TECH ENTERPRISE**.
+Public research papers, technical notes, and reproducibility artifacts from **Alpha Quant Pro Lab**, published by **AQP TECH ENTERPRISE**.
 
 The program focuses on quantitative research methodology, information-time causality, temporal leakage, financial machine learning, walk-forward validation, execution realism, and reproducible research-to-runtime workflows.
 
@@ -11,7 +11,7 @@ The program focuses on quantitative research methodology, information-time causa
 **A Mutation-Based Benchmark for Temporal Leakage Detection**
 
 - Author: **Edmen Wong**
-- Affiliation: **AQP TECH ENTERPRISE / Alpha Tick Lab Research**
+- Affiliation: **Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE**
 - Status: **Public preprint; not peer reviewed**
 - Version: **0.2**
 - Published: **22 August 2026**

@@ -2,7 +2,7 @@
 
 **A Mutation-Based Benchmark for Temporal Leakage Detection**
 
-Edmen Wong · Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE
+Edmen Wong · Alpha Quant Pro Research · AQP TECH ENTERPRISE
 
 Research Paper 01 · Public Preprint · Version 0.3 · 22 August 2026
 
@@ -58,4 +58,4 @@ The publication reference run was generated with Python 3.13.5. Before this publ
 
 ## Revision note
 
-Version 0.3 is a branding-only revision to Alpha Quant Pro Lab naming. Research content, benchmark design, results, and conclusions are unchanged from version 0.2.
+Version 0.3 is a branding-only revision. **Alpha Quant Pro** is the current umbrella ecosystem brand. Research content, benchmark design, results, and conclusions are unchanged from version 0.2.

@@ -12,6 +12,7 @@ Public quantitative research, technical notes, and reproducibility artifacts fro
 
 - Official site: https://alphaquantpro.com
 - Research hub: https://alphaquantpro.com/research
+- Public brand / external reference: https://github.com/AlphaQuantPro/Alpha-Releases/blob/main/ABOUT.md
 - Organization: **AQP TECH ENTERPRISE**
 - Author: **Edmen Wong**
 
@@ -78,6 +79,7 @@ A passing mutation suite is not treated as proof that every leakage path is abse
 
 - Alpha Quant Pro: https://alphaquantpro.com
 - Alpha Quant Pro Research: https://alphaquantpro.com/research
+- Public brand / external reference: https://github.com/AlphaQuantPro/Alpha-Releases/blob/main/ABOUT.md
 - Research Paper 01 DOI: https://doi.org/10.5281/zenodo.22052205
 - Technical Note 01 DOI: https://doi.org/10.5281/zenodo.22052190
 

@@ -6,6 +6,10 @@ Public quantitative research, technical notes, and reproducibility artifacts fro
 
 > Canonical naming: **Alpha Quant Pro Lab** is the current research brand. Older public references to **Alpha Tick Lab** refer to the same research environment and are superseded by the Alpha Quant Pro Lab name.
 
+## Preferred external description
+
+**Alpha Quant Pro Lab** is the quantitative research and testing environment for **Alpha Quant Pro**, developed by **AQP TECH ENTERPRISE**, with a focus on tick-level backtesting, validation, financial machine learning, and reproducible quantitative research.
+
 - Official site: https://alphaquantpro.com
 - Research hub: https://alphaquantpro.com/research
 - Organization: **AQP TECH ENTERPRISE**

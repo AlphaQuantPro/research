@@ -1,14 +1,14 @@
-# Alpha Quant Pro Lab Research
+# Alpha Quant Pro Research
 
-Public quantitative research, technical notes, and reproducibility artifacts from **Alpha Quant Pro Lab**, published by **AQP TECH ENTERPRISE**.
+Public quantitative research, technical notes, and reproducibility artifacts from **Alpha Quant Pro**, developed and published by **AQP TECH ENTERPRISE**.
 
-**Alpha Quant Pro Lab** is the canonical name of the quantitative research and testing environment associated with **Alpha Quant Pro**, focused on backtesting causality, information-time integrity, financial machine learning, walk-forward validation, execution realism, and reproducible research workflows.
+**Alpha Quant Pro** is the umbrella ecosystem for quantitative research, backtesting, validation, analytics, and trading workflows. Public research focuses on information-time integrity, financial machine learning, walk-forward validation, execution realism, and reproducible research methodology.
 
-> Canonical naming: **Alpha Quant Pro Lab** is the current research brand. Older public references to **Alpha Tick Lab** refer to the same research environment and are superseded by the Alpha Quant Pro Lab name.
+> Canonical naming: use **Alpha Quant Pro** as the ecosystem brand. Earlier public labels for the research environment are legacy references and are not separate current brands.
 
 ## Preferred external description
 
-**Alpha Quant Pro Lab** is the quantitative research and testing environment for **Alpha Quant Pro**, developed by **AQP TECH ENTERPRISE**, with a focus on tick-level backtesting, validation, financial machine learning, and reproducible quantitative research.
+**Alpha Quant Pro** is a quantitative research and trading software ecosystem developed by **AQP TECH ENTERPRISE**, covering systematic strategy research, backtesting, validation, analytics, and trading workflows.
 
 - Official site: https://alphaquantpro.com
 - Research hub: https://alphaquantpro.com/research
@@ -22,7 +22,7 @@ Public quantitative research, technical notes, and reproducibility artifacts fro
 **A Mutation-Based Benchmark for Temporal Leakage Detection**
 
 - Author: **Edmen Wong**
-- Affiliation: **Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE**
+- Affiliation: **Alpha Quant Pro Research · AQP TECH ENTERPRISE**
 - Status: **Public preprint; not peer reviewed**
 - Version: **0.3**
 - Published: **22 August 2026**
@@ -43,7 +43,7 @@ Controlled benchmark result: 0/3,600 violations in causal controls; 3,000/3,000 
 **A Causality Contract for Quantitative Trading Pipelines**
 
 - Author: **Edmen Wong**
-- Affiliation: **Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE**
+- Affiliation: **Alpha Quant Pro Research · AQP TECH ENTERPRISE**
 - Version: **1.1**
 - Latest revision: **22 August 2026**
 - First published: **16 August 2026**
@@ -77,7 +77,7 @@ A passing mutation suite is not treated as proof that every leakage path is abse
 ## Canonical entity references
 
 - Alpha Quant Pro: https://alphaquantpro.com
-- Alpha Quant Pro Lab Research: https://alphaquantpro.com/research
+- Alpha Quant Pro Research: https://alphaquantpro.com/research
 - Research Paper 01 DOI: https://doi.org/10.5281/zenodo.22052205
 - Technical Note 01 DOI: https://doi.org/10.5281/zenodo.22052190
 

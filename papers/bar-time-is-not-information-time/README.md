@@ -2,7 +2,7 @@
 
 ## A Causality Contract for Quantitative Trading Pipelines
 
-**Edmen Wong** · Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE
+**Edmen Wong** · Alpha Quant Pro Research · AQP TECH ENTERPRISE
 
 - Technical Note 01
 - Version 1.1
@@ -29,4 +29,4 @@ The latest DOI-bearing archival PDF is `bar-time-is-not-information-time-v1.1-do
 
 ## Revision note
 
-Version 1.1 is a branding-only revision to Alpha Quant Pro Lab naming. Research methodology, causal contract, conclusions, and evidence boundaries are unchanged from version 1.0.
+Version 1.1 is a branding-only revision. **Alpha Quant Pro** is the current umbrella ecosystem brand. Research methodology, causal contract, conclusions, and evidence boundaries are unchanged from version 1.0.

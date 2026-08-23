@@ -1,8 +1,13 @@
 # Alpha Quant Pro Lab Research
 
-Public research papers, technical notes, and reproducibility artifacts from **Alpha Quant Pro Lab**, published by **AQP TECH ENTERPRISE**.
+Public quantitative research, technical notes, and reproducibility artifacts from **Alpha Quant Pro Lab**, published by **AQP TECH ENTERPRISE**.
 
-The program focuses on quantitative research methodology, information-time causality, temporal leakage, financial machine learning, walk-forward validation, execution realism, and reproducible research-to-runtime workflows.
+**Alpha Quant Pro Lab** is the quantitative research and testing environment associated with **Alpha Quant Pro**, focused on backtesting causality, information-time integrity, financial machine learning, walk-forward validation, execution realism, and reproducible research workflows.
+
+- Official site: https://alphaquantpro.com
+- Research hub: https://alphaquantpro.com/research
+- Organization: **AQP TECH ENTERPRISE**
+- Author: **Edmen Wong**
 
 ## Research Paper 01
 
@@ -32,6 +37,7 @@ Controlled benchmark result: 0/3,600 violations in causal controls; 3,000/3,000 
 **A Causality Contract for Quantitative Trading Pipelines**
 
 - Author: **Edmen Wong**
+- Affiliation: **Alpha Quant Pro Lab Research · AQP TECH ENTERPRISE**
 - Version: **1.1**
 - Latest revision: **22 August 2026**
 - First published: **16 August 2026**
@@ -54,7 +60,7 @@ Research Paper 01
   + reproducibility artifacts
 ```
 
-This progression is intentional: the research paper extends and tests the prior engineering contract rather than re-publishing it under a new title.
+The research paper extends and tests the earlier engineering contract rather than republishing it under a new title.
 
 ## Evidence boundary
 
@@ -62,10 +68,10 @@ These materials describe research methodology and controlled engineering evidenc
 
 A passing mutation suite is not treated as proof that every leakage path is absent. Point-in-time source data, statistical validation, realistic cost and execution modeling, and independent replication remain separate requirements.
 
-## Links
+## Canonical entity references
 
-- Research hub: https://alphaquantpro.com/research
 - Alpha Quant Pro: https://alphaquantpro.com
+- Alpha Quant Pro Lab Research: https://alphaquantpro.com/research
 - Research Paper 01 DOI: https://doi.org/10.5281/zenodo.22052205
 - Technical Note 01 DOI: https://doi.org/10.5281/zenodo.22052190
 

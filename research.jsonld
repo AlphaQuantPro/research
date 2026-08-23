@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://alphaquantpro.com/#organization",
+      "name": "AQP TECH ENTERPRISE",
+      "url": "https://alphaquantpro.com"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://alphaquantpro.com/#edmen-wong",
+      "name": "Edmen Wong",
+      "affiliation": {
+        "@id": "https://alphaquantpro.com/#organization"
+      }
+    },
+    {
+      "@type": "ResearchProject",
+      "@id": "https://alphaquantpro.com/research#research",
+      "name": "Alpha Quant Pro Research",
+      "url": "https://alphaquantpro.com/research",
+      "description": "Public quantitative research, technical notes, and reproducibility artifacts from the Alpha Quant Pro ecosystem, developed and published by AQP TECH ENTERPRISE.",
+      "parentOrganization": {
+        "@id": "https://alphaquantpro.com/#organization"
+      },
+      "sameAs": "https://github.com/AlphaQuantPro/research",
+      "hasPart": [
+        {
+          "@id": "https://doi.org/10.5281/zenodo.22052205"
+        },
+        {
+          "@id": "https://doi.org/10.5281/zenodo.22052190"
+        }
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22052205",
+      "name": "Adversarial Information-Time Testing for Financial Machine-Learning Pipelines: A Mutation-Based Benchmark for Temporal Leakage Detection",
+      "author": {
+        "@id": "https://alphaquantpro.com/#edmen-wong"
+      },
+      "publisher": {
+        "@id": "https://alphaquantpro.com/#organization"
+      },
+      "datePublished": "2026-08-22",
+      "version": "0.3",
+      "url": "https://doi.org/10.5281/zenodo.22052205",
+      "isPartOf": {
+        "@id": "https://alphaquantpro.com/research#research"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22052190",
+      "name": "Bar Time Is Not Information Time: A Causality Contract for Quantitative Trading Pipelines",
+      "author": {
+        "@id": "https://alphaquantpro.com/#edmen-wong"
+      },
+      "publisher": {
+        "@id": "https://alphaquantpro.com/#organization"
+      },
+      "datePublished": "2026-08-22",
+      "version": "1.1",
+      "url": "https://doi.org/10.5281/zenodo.22052190",
+      "isPartOf": {
+        "@id": "https://alphaquantpro.com/research#research"
+      }
+    }
+  ]
+}

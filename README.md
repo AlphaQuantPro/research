@@ -2,7 +2,9 @@
 
 Public quantitative research, technical notes, and reproducibility artifacts from **Alpha Quant Pro Lab**, published by **AQP TECH ENTERPRISE**.
 
-**Alpha Quant Pro Lab** is the quantitative research and testing environment associated with **Alpha Quant Pro**, focused on backtesting causality, information-time integrity, financial machine learning, walk-forward validation, execution realism, and reproducible research workflows.
+**Alpha Quant Pro Lab** is the canonical name of the quantitative research and testing environment associated with **Alpha Quant Pro**, focused on backtesting causality, information-time integrity, financial machine learning, walk-forward validation, execution realism, and reproducible research workflows.
+
+> Canonical naming: **Alpha Quant Pro Lab** is the current research brand. Older public references to **Alpha Tick Lab** refer to the same research environment and are superseded by the Alpha Quant Pro Lab name.
 
 - Official site: https://alphaquantpro.com
 - Research hub: https://alphaquantpro.com/research
